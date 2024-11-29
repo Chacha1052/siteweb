@@ -1,0 +1,876 @@
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Catalogue des Plantes pour Pollinisateurs</title>
+    <style>
+       
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ee;
+            color: #2f4f4f;
+            margin: 0;
+            padding: 0;
+        }
+
+        header {
+            background-color: #6da36f;
+            color: #ffffff;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav {
+            background-color: #e8f5e9;
+            padding: 10px;
+            display: flex;
+            justify-content: center;
+        }
+
+        nav ul {
+            list-style-type: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+            gap: 15px;
+        }
+
+        nav ul li {
+            display: inline;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #2f4f4f;
+            font-weight: bold;
+            padding: 10px 20px;
+            background-color: #c8e6c9;
+            border-radius: 5px;
+        }
+
+        nav ul li a:hover {
+            background-color: #a5d6a7;
+            color: #ffffff;
+        }
+
+        main {
+            padding: 20px;
+        }
+
+        h1, h2 {
+            color: #388e3c;
+        }
+
+        section {
+            margin-bottom: 20px;
+        }
+
+        footer {
+            background-color: #6da36f;
+            color: #ffffff;
+            text-align: center;
+            padding: 10px;
+            margin-top: 20px;
+        }
+
+    
+        ul {
+            background-color: #ffffff;
+            padding: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        }
+
+        iframe {
+            border: none;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+   
+    <header>
+        <h1>Catalogue des plantes attractives pour les pollinisateurs</h1>
+    </header>
+
+  
+    <nav>
+        <ul>
+           <li><a href="#Acceuil">Acceil</a></li>
+            <li><a href="#plantes et pollinisateurs">Base de données des plantes et pollinisateurs</a></li>
+            <li><a href="#Conseils">Conseils de jardinage</a></li>
+            <li><a href="#forum">Forum communautaire</a></li>
+        </ul>
+    </nav>
+ 
+    
+       <section id="Acceil">
+            <h2>Bienvenue!</h2>
+            <p>
+             Ce site a été conçu pour aider les passionnées de jardinage à choisir des plantes qui attirent les pollinisateurs essentiels comme les abeilles, les papillons et les colibris. 
+              
+              Vous trouverez ici des fiches sur les plantes et les pollinisateurs, des conseils de jardinages et un espace communauté et forum. Ensemble, soutenons la biodiversité en créant des espaces propices à la faune locale!
+            </p>
+        </section>
+      <main>
+        <section id="plantes et pollinisateurs">
+            <h2>Base de Données des Plantes et paullinisateurs</h2>
+            <ul>
+                   <h3>Les quatre principaux ordres d’insectes pollinisateurs </h3>
+              </li>  
+                 <li>  
+                     <strong>Les Hyménoptères</strong>            
+     <p>  Les hyménoptères regroupent les abeilles, les bourdons, les guêpes et les fourmis. On en compte 8 000 espèces en France. Ces insectes se caractérisent par deux paires d’ailes membraneuses (absentes chez les ouvrières de fourmis mais visibles chez la reine et les mâles). Le plus connu des pollinisateurs, l’abeille domestique qui produit du miel est un hyménoptère. Mais cette célébrité ne doit pas faire oublier la très grande diversité des abeilles sauvages qui jouent un rôle fondamental dans la reproduction des plantes à fleurs.</p>
+  <img src="https://codexvirtualis.fr/codex/cabinet-de-curiosites-virtuel/de-lidentification-des-animaux/quel-insecte/hymenopteres"> 
+             
+                     </li>
+                      <li>  
+                    <strong>Les Diptères</strong><br>
+              
+                  <p> La deuxième paire d’ailes des diptères est transformée en une paire de balanciers qui sont des stabilisateurs de vol. Nous connaissons 8 000 espèces de diptères en France dont les mouches, les syrphes et les bombyles. Les syrphes sont des petites mouches qui ressemblent à de petites guêpes et sont capables de faire du vol stationnaire. Les diptères se nourrissent de pollen et ou de nectar grâce à leur trompe, ils jouent probablement un rôle important dans la pollinisation des petites fleurs, peu attractives pour les gros pollinisateurs.</p>
+<img src="https://www.apiculture.net/modules/prestablog/views/img/grid-for-1-7/up-img/377.jpg" alt="Apiculture - Image illustrative" style="width:50%; height:auto;">
+ 
+                </li>
+                <li>
+                    <strong>Les Coléoptères</strong><br>
+                  <p>Ce sont des insectes qui présentent des ailes antérieures rigides que l’on appelle élytres. Les élytres forment une carapace qui protège l’abdomen et les ailes postérieures membraneuses. Il existe 10 000 espèces de coléoptères en France, parmi lesquelles de nombreuses sont floricoles. Les coléoptères consomment souvent les étamines et le pollen des fleurs, ce sont généralement des pollinisateurs peu efficaces. Il faut pourtant noter que les premiers insectes pollinisateurs connus, il y a 200 millions d’années étaient de petits coléoptères.</p>
+<img src="https://www.insectescomestibles.fr/content/12-les-coleopteres-qu-est-ce-qu-un-coleopteres" alt="Image des Coléoptères" style="width:50%; border:2px solid green;">
+                  
+                 </li>  
+                 <li>  
+                     <strong>Les Lépidoptères</strong>            
+     <p> Ce sont les papillons, on en connaît 5200 espèces en France. Les plus connues sont les espèces dites « de jour » qui ne sont que 250, toutes les autres sont les espèces dites « de nuit ». La plupart des espèces de papillons fréquentent les fleurs dont elles récoltent le nectar avec leur longue trompe qui est enroulée au repos.</p>
+<img src="https://lemagdesanimaux.ouest-france.fr/dossier-1817-lepidopteres.html"alt="Image des lépidoptères"style="width:60%; border: 2px solid blue;">
+                
+         <style>
+       {
+            font-family: Arial, sans-serif;
+            background-color: #f4f7f3;
+            color: #333;
+        }
+        table {
+            width: 80%;
+            margin: 20px auto;
+            border-collapse: collapse;
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+            background-color: #fff;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 12px;
+            text-align: left;
+        }
+        th {
+            background-color: #d8b2d6;
+            color: #000;
+        }
+        td {
+            background-color: #f8f4f8;
+        }
+        caption {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+            color: #6a4f78;
+            font-weight: bold;
+        }
+                   </style>           
+
+   <table>                   
+     
+     <caption>Fiche de la Carotte Sauvage</caption>
+        <tr>
+            <th>Caractéristique</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Hauteur</td>
+            <td>Peut atteindre 1 mètre.</td>
+        </tr>
+        <tr>
+            <td>Racine</td>
+            <td>Plus petite et plus amère que la variété cultivée.</td>
+        </tr>
+        <tr>
+            <td>Feuilles</td>
+            <td>Profondément divisées.</td>
+        </tr>
+        <tr>
+            <td>Fleurs</td>
+            <td>Fleurs blanches avec une fleur rouge sombre au centre.</td>
+        </tr>
+        <tr>
+            <td>Type d'inflorescence</td>
+            <td>Ombelle: plate-forme d'atterrissage pour de nombreux insectes pollinisateurs.</td>
+        </tr>
+        <tr>
+            <td>Pollinisateurs attirés</td>
+            <td>Diptères, coléoptères, hémiptères, et autres insectes se nourrissant de nectar et de pollen.</td>
+        </tr>
+        <tr>
+            <td>Cycle des ombelles</td>
+            <td>
+                - Se ferment après la fécondation des fleurs. <br>
+                - Se rouvrent une fois les fruits (akènes) matures.
+            </td>
+        </tr>
+        <tr>
+            <td>Dissémination des graines</td>
+            <td>Les akènes, munis d’aiguillons, s’accrochent à la fourrure des animaux ou aux vêtements humains pour faciliter leur dispersion.</td>
+        </tr>
+        <tr>
+            <td>Famille botanique</td>
+            <td>Apiacées (anciennement appelées Ombellifères).</td>
+        </tr>
+    </table>
+             
+ <table>
+        <caption>Fiche de la Cirse des champs </caption>
+   <tr>
+            <th>Caractéristique</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Hauteur</td>
+            <td>Peut atteindre jusqu'à 1,50 mètre.</td>
+        </tr>
+        <tr>
+            <td>Feuilles</td>
+            <td>Bordées d'épines.</td>
+        </tr>
+        <tr>
+            <td>Capitules</td>
+            <td>Fleurs roses regroupées au sommet de la tige.</td>
+        </tr>
+        <tr>
+            <td>Pollinisateurs attirés</td>
+            <td>Bourdons et abeilles, attirés par le nectar difficilement accessible.</td>
+        </tr>
+        <tr>
+            <td>Contenu des fleurs</td>
+            <td>Pollen et nectar en grande quantité au fond du tube des fleurs.</td>
+        </tr>
+        <tr>
+            <td>Mécanisme de dispersion</td>
+            <td>Les fruits (akènes) sont surmontés de soies plumeuses, permettant la dispersion par le vent.</td>
+        </tr>
+        <tr>
+            <td>Multiplication</td>
+            <td>Par tiges souterraines (rhizomes) et fragments de racines.</td>
+        </tr>
+        <tr>
+            <td>Ressemblance avec d’autres plantes</td>
+            <td>Peut être confondu avec le Cirse commun (Cirsium vulgare) et le Chardon crépu (Carduus crispus).</td>
+        </tr>
+        <tr>
+            <td>Ressources pour pollinisateurs</td>
+            <td>Fournit des ressources similaires aux autres cirses pour les pollinisateurs.</td>
+        </tr>
+    </table>
+ <table>
+        <caption>Fiche de la Matricaire</caption>
+        <tr>
+            <th>Caractéristique</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Hauteur</td>
+            <td>Mesure entre 20 et 60 cm.</td>
+        </tr>
+        <tr>
+            <td>Feuilles</td>
+            <td>Très divisées, caractéristiques des plantes de cette famille.</td>
+        </tr>
+        <tr>
+            <td>Capitules</td>
+            <td>Composés d'un cœur de fleurs jaunes en forme de tube entouré de fleurs blanches ressemblant à des pétales.</td>
+        </tr>
+        <tr>
+            <td>Pollens et nectar</td>
+            <td>Le pollen est la principale ressource collectée par les pollinisateurs, tandis que le nectar est moins abondant.</td>
+        </tr>
+        <tr>
+            <td>Espèce similaire</td>
+            <td>Peut être confondu avec la matricaire camomille (Matricaria recutita) qui offre des ressources similaires pour les pollinisateurs.</td>
+        </tr>
+    </table>
+                   
+<table>
+        <caption>Fiche de la Picride Fausse-Épervière</caption>
+        <tr>
+            <th>Caractéristique</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Hauteur</td>
+            <td>Rarement plus de 1 m.</td>
+        </tr>
+        <tr>
+            <td>Capitules</td>
+            <td>Formés de fleurs jaunes en forme de languettes, comme les pissenlits, crépides, liondents, et porcelles.</td>
+        </tr>
+        <tr>
+            <td>Aspect</td>
+            <td>Plante rêche, recouverte de poils crochus qui la rendent rude au toucher.</td>
+        </tr>
+        <tr>
+            <td>Nectar et Pollen</td>
+            <td>Nectar et pollen produits attirent une grande variété d'insectes, tels que des bourdons, des abeilles, et des mouches.</td>
+        </tr>
+        <tr>
+            <td>Fruits (Akènes)</td>
+            <td>Les akènes sont surmontés de soies plumeuses, facilitant leur dispersion par le vent.</td>
+        </tr>
+        <tr>
+            <td>Espèce similaire</td>
+            <td>Peut être confondu avec la picride fausse-vipérine (Picris echioides), qui offre des ressources similaires aux mêmes groupes de pollinisateurs.</td>
+        </tr>
+    </table>
+            
+           <table>
+        <caption>Fiche du Séneçon du Cap</caption>
+        <tr>
+            <th>Caractéristique</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Origine</td>
+            <td>Originaire d'Afrique du Sud, introduit en Europe avec la laine des moutons à la fin du 19e siècle.</td>
+        </tr>
+        <tr>
+            <td>Hauteur</td>
+            <td>Peut atteindre 1 m de hauteur.</td>
+        </tr>
+        <tr>
+            <td>Floraison</td>
+            <td>Fleurit toute l’année si les conditions sont favorables.</td>
+        </tr>
+        <tr>
+            <td>Feuilles</td>
+            <td>Quasi linéaires, caractéristiques de cette espèce.</td>
+        </tr>
+        <tr>
+            <td>Capitules</td>
+            <td>Fleurs jaunes avec un cœur en tubes et des pétales à la périphérie.</td>
+        </tr>
+        <tr>
+            <td>Pollinisation</td>
+            <td>Attire de nombreux insectes en raison de sa grande quantité de pollen et nectar.</td>
+        </tr>
+        <tr>
+            <td>Fruits (Akènes)</td>
+            <td>Akènes surmontés de soies, dispersés par le vent.</td>
+        </tr>
+        <tr>
+            <td>Espèce similaire</td>
+            <td>Peut être confondu avec le séneçon jacobée (Senecio jacobea), mais il est préférable de planter cette espèce locale pour éviter l’invasion.</td>
+        </tr>
+    </table>
+         
+<table>
+        <caption>Fiche de la Roquette Bâtarde</caption>
+        <tr>
+            <th>Caractéristique</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Origine</td>
+            <td>Espèce méditerranéenne.</td>
+        </tr>
+        <tr>
+            <td>Hauteur</td>
+            <td>N'atteint pas 1 mètre de hauteur.</td>
+        </tr>
+        <tr>
+            <td>Floraison</td>
+            <td>Fleurs jaunes à 4 pétales.</td>
+        </tr>
+        <tr>
+            <td>Fruits</td>
+            <td>Fruits sous forme de siliques, appliquées contre la tige à maturité, terminées par un bec renflé.</td>
+        </tr>
+        <tr>
+            <td>Feuilles</td>
+            <td>Feuilles velues, couleur vert-blanchâtre pour les plus basses.</td>
+        </tr>
+        <tr>
+            <td>Pollinisation</td>
+            <td>Nectar à la base des pétales, ressource principalement pour les syrphes et les abeilles.</td>
+        </tr>
+        <tr>
+            <td>Fruits à maturité</td>
+            <td>Les siliques s'ouvrent par 4 fentes pour libérer les graines.</td>
+        </tr>
+        <tr>
+            <td>Espèces similaires</td>
+            <td>Peut être confondue avec le vélar officinal, la moutarde noire, et la moutarde des champs. Préférer ces dernières pour les plantations.</td>
+        </tr>
+    </table>
+
+   <table>
+        <caption>Fiche de l'Arbre aux Papillons</caption>
+        <tr>
+            <th>Caractéristique</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Origine</td>
+            <td>Originaire de Chine.</td>
+        </tr>
+        <tr>
+            <td>Hauteur</td>
+            <td>Peut atteindre 5 mètres de hauteur.</td>
+        </tr>
+        <tr>
+            <td>Floraison</td>
+            <td>Grappes de fleurs violettes.</td>
+        </tr>
+        <tr>
+            <td>Feuilles</td>
+            <td>Feuilles allongées au revers duveteux.</td>
+        </tr>
+        <tr>
+            <td>Pollinisation</td>
+            <td>Nectar produit au fond du tube de chaque fleur, accessible uniquement aux insectes à pièces buccales longues, comme les papillons.</td>
+        </tr>
+        <tr>
+            <td>Fruits</td>
+            <td>Capsules qui s'ouvrent par deux valves à maturité pour libérer les graines.</td>
+        </tr>
+        <tr>
+            <td>Problématique</td>
+            <td>Très invasive, recommandation de planter des hybrides stériles pour limiter sa propagation.</td>
+        </tr>
+        <tr>
+            <td>Utilisation</td>
+            <td>Planté pour l'ornement des parcs et jardins.</td>
+        </tr>
+    </table>
+        <table>
+        <caption>Fiche du Cabaret des Oiseaux</caption>
+        <tr>
+            <th>Caractéristique</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Hauteur</td>
+            <td>Peut atteindre 2 mètres de hauteur.</td>
+        </tr>
+        <tr>
+            <td>Feuilles</td>
+            <td>Feuilles surdimensionnées, soudées par deux à leur base.</td>
+        </tr>
+        <tr>
+            <td>Inflorescence</td>
+            <td>Inflorescence ovoïde composée de fleurs roses séparées par des bractées piquantes.</td>
+        </tr>
+        <tr>
+            <td>Floraison</td>
+            <td>Les fleurs au centre s'épanouissent en premier, suivies des autres formant des anneaux migratoires.</td>
+        </tr>
+        <tr>
+            <td>Pollinisation</td>
+            <td>Pollen et nectar au fond des fleurs, accessibles aux insectes munis de pièces buccales longues, comme certains bourdons et abeilles.</td>
+        </tr>
+        <tr>
+            <td>Utilisation</td>
+            <td>Attractif pour les pollinisateurs tels que les abeilles et les bourdons.</td>
+        </tr>
+    </table>
+        
+   <table>
+        <caption>Fiche de la Gesse (Pois Vivace)</caption>
+        <tr>
+            <th>Caractéristique</th>
+            <th>Description</th>
+        </tr>
+        <tr>
+            <td>Hauteur</td>
+            <td>Peut atteindre plus de 2 mètres, grimpant souvent sur des supports voisins.</td>
+        </tr>
+        <tr>
+            <td>Tiges</td>
+            <td>Tiges ailées.</td>
+        </tr>
+        <tr>
+            <td>Feuilles</td>
+            <td>Feuilles composées de deux folioles, munies de vrilles permettant de s'accrocher à d'autres supports.</td>
+        </tr>
+        <tr>
+            <td>Fleurs</td>
+            <td>Grandes fleurs roses vifs, asymétriques, regroupées par 6 à 15 au sommet d'un pédoncule.</td>
+        </tr>
+        <tr>
+            <td>Pollinisation</td>
+            <td>Nectar accessible aux insectes, mais principalement pollinisé par les bourdons qui forcent l'ouverture de la fleur.</td>
+        </tr>
+        <tr>
+            <td>Fruits</td>
+            <td>Gousses qui réalisent une contorsion explosive pour libérer les graines à maturité.</td>
+        </tr>
+        <tr>
+            <td>Utilisation</td>
+            <td>Plante ornementale, souvent plantée dans les jardins, mais elle peut coloniser des terrains vagues.</td>
+        </tr>
+    </table>
+        </section>  
+
+        <section id="Conseils">
+          
+        <p>
+  </p><strong> Que faire au jardin en:</strong><br/>
+  <a href="#Conseils de Jardinage pour le mois de Janvier">Janvier</a></li>
+  <a href="#Conseils de Jardinage pour le mois de Février">Février</a></li> 
+  <a href="#Conseils de Jardinage pour le mois de Mars">Mars</a></li> 
+  <a href="#Conseils de Jardinage pour le mois d'Avril">Avril</a></li> 
+  <a href="#Conseils de Jardinage pour le mois de Mai">Mai</a></li> 
+  <a href="#Conseils de Jardinage pour le mois de Juin">Juin</a></li> 
+  <a href="#Conseils de Jardinage pour le mois de Juillet">Juillet</a></li> 
+  <a href="#Conseils de Jardinage pour le mois d'Août">Août</a></li> 
+  <a href="#Conseils de Jardinage pour le mois de Septembre">Septembre</a></li> 
+  <a href="#Conseils de Jardinage pour le mois d'Octobre">Octobre</a></li> 
+  <a href="#Conseils de Jardinage pour le mois de Novembre">Novembre</a></li> 
+  <a href="#Conseils de Jardinage pour le mois de Décembre">Décembre</a></li> 
+
+   <section id="Conseils de Jardinage pour le mois de Janvier">
+     
+ <h2>Janvier</h2>
+
+  <strong>Légumes</strong>    <br />        
+     <p>  Essayez de multiplier la patate douce en intérieur.Sauf exception, tous les semis se font sous abri. Faites vos commandes de graines potagères pour les semis précoces.Récoltez les laitues d'hiver, les romaines, la mâche, le cresson de jardin. Epandez du fumier ou du compost bien décomposé sur les futures planches de légumes. En sol léger et perméable, plantez l'ail blanc et l'ail violet. Faites germer vos plants de pommes de terre. Fertilisez le sol pour la prochaine saison.</p>
+     
+     <strong>Rosiers</strong>  <br /> 
+   <p> Ramassez les feuilles mortes susceptibles d'abriter des maladies.</p>
+     
+      <strong>Fleurs et pelouse</strong>  <br /> 
+<p> Ramassez les feuilles mortes susceptibles d'abriter des maladies.</p>
+     
+     <strong>Arbres et arbustes</strong>  <br /> 
+<p>S'il ne gèle pas, vous pouvez procéder à la taille des arbustes qui fleurissent en été. Il est encore temps de déplacer les arbres et les arbustes.Plantez les espèces caduques.</p>
+     
+         <strong>Fruits</strong>  <br /> 
+<p>Si un redoux survient, arrosez avec modération les pots et jardinières.</p>
+     
+         <strong>Plantes d'intérieur</strong>  <br /> 
+<p>Evitez à vos plantes les courants d'air et les changements de température.Apportez un peu d'engrais aux seules plantes fleuries.</p>
+     
+       <strong>Travaux divers</strong>  <br /> 
+<p>Aérez régulièrement le tas de compost.Réfléchissez aux plans de vos futurs massifs.Nettoyez vos outils.Ramassez les dernières feuilles mortes.</p>
+     
+     
+   <section id="Conseils de Jardinage pour le mois de Février">
+     
+      <h2>Février</h2>
+     
+  <strong>Légumes</strong> <br />         
+     <p> Pensez à commander les graines qui vous manquent.Criblez votre compost et épandez-le au potager.Plantez les bulbilles d'oignons, d'ail et d'échalote.</p> 
+     
+  <strong>Rosiers</strong> <br />         
+     <p> La période de taille des rosiers varie selon le climat de votre région. La fin février est généralement une bonne période.
+Supprimez les éventuels rejets de porte-greffe (drageons, gourmands).</p> 
+     
+      <strong>Fleurs et pelouse</strong> <br />         
+     <p>Plantez les bisannuelles de saison vendues en godet : pensées, violas, primevères, paquerettes, myosotis...Semez à chaud pour gagner du temps pélargoniums, bégonias tubéreux, oeillets annuels à grosses fleurs... </p> 
+     
+      <strong>Arbres et arbustes</strong> <br />         
+     <p>Faites un apport de corne broyée ou de compost dans tous les massifs.Si vous ne l'avez pas fait en automne, plantez les arbustes caducs à fleurs un jour où il ne gèle pas.Après floraison, taillez les mimosas et les jasmins d'hiver.En février, vous pouvez déplacer les arbustes mal placés.</p> 
+        
+      <strong>Fruits</strong> <br />         
+     <p>Finissez de tailler les pommiers et les poiriers.Taillez les framboisiers et les pêchers.Bouturez le figuier.</p>
+     
+          
+      <strong>Plantes d'intérieur</strong> <br />         
+     <p>Augmentez l'hygrométrie en groupant les plantes.Ne laissez pas d'eau stagnante dans les soucoupes de vos plantes, vertes comme fleuries.
+Rempotez les cactus.</p>
+     
+                
+      <strong>Travaux divers</strong> <br />         
+     <p>Commencez à nettoyer et désinfecter vos pots et jardinières en prévision des semis à venir.Pensez à désinfecter les outils de coupe avant chaque taille.</p>
+     
+      <h2>Mars</h2>
+       <strong>Légumes</strong> <br />         
+     <p>Bêchez légèrement entre les fraisiers pour ameublir le sol. C'est le moment de planter l'ail, les échalottes, les oignons... Installez les plants germés de pommes de terre précoces.La grande saison des semis commence ! Semez tous les légumes sous abri. Semez les herbes aromatiques. Semez les pois en pleine terre...Apportez du compost aux emplacements des futures cultures gourmandes(tomates...).Divisez les pieds de ciboulette.</p>
+     
+   <h2>Avril</h2>
+       <strong>Rosiers</strong> <br />         
+     <p>Taillez sans tarder si vous êtes hors gel, toujours au dessus d'un oeil pointant vers l'extérieur.Paillez avant que les herbes indésirables se fassent envahissantes...</p>
+     
+    <strong> Fleurs et pelouse</strong> <br />
+    <p>Taillez les vivaces qui redémarrent (asters, gauras...).Plantez les vivaces, les grimpantes à fleurs, les clématites...Vous pouvez envisager la première tonte ce mois-ci.Préparez le sol destiné à être semé le mois prochain.Regarnissez les trous des pelouses existantes. Semez sous abri les premières grimpantes.</p>
+     
+       <strong>Arbres et arbustes</strong> <br />
+    <p>Taillez les haies et la bruyère.Bouturez bambou, buis, groseiller à fleurs...Plantez les conifères ainsi que les arbres et arbustes à feuillage persistant.</p>
+     
+          <strong>Fruits</strong> <br />
+    <p>Plantez les arbustes à petits fruits (groseillers, framboisiers, cassissiers...).Cessez les traitements d'hiver.</p>
+     
+       <strong>Plantes d'intérieur</strong> <br />
+    <p>Ni trop d'eau, ni pas assez.Rapprochez les plantes des fenêtres pour améliorer l'éclairage.</p>
+     
+            <section id="Conseils de Jardinage pour le mois de Mars">
+              
+  <strong>Légumes</strong>   <br />          
+     <p>Bêchez légèrement entre les fraisiers pour ameublir le sol.C'est le moment de planter l'ail, les échalottes, les oignons...Installez les plants germés de pommes de terre précoces.La grande saison des semis commence !Semez tous les légumes sous abri. Semez les herbes aromatiques. Semez les pois en pleine terre...Apportez du compost aux emplacements des futures cultures gourmandes(tomates...).Divisez les pieds de ciboulette.</p> 
+        
+  <strong>Rosiers</strong>   <br />          
+     <p>Taillez sans tarder si vous êtes hors gel, toujours au dessus d'un oeil pointant vers l'extérieur.Paillez avant que les herbes indésirables se fassent envahissantes...</p> 
+              
+             <strong>Fleurs et pelouse</strong>   <br />          
+     <p>Taillez les vivaces qui redémarrent (asters, gauras...).Plantez les vivaces, les grimpantes à fleurs, les clématites...Vous pouvez envisager la première tonte ce mois-ci.Préparez le sol destiné à être semé le mois prochain.Regarnissez les trous des pelouses existantes.Semez sous abri les premières grimpantes.</p>  
+              
+                <strong>Arbres et arbustes</strong>   <br />          
+     <p>Taillez les haies et la bruyère.Bouturez bambou, buis, groseiller à fleurs...Plantez les conifères ainsi que les arbres et arbustes à feuillage persistant.</p>  
+             
+                <strong>Fruits</strong>   <br />          
+     <p>Plantez les arbustes à petits fruits (groseillers, framboisiers, cassissiers...).Cessez les traitements d'hiver.</p>    
+              
+                <strong>Plantes d'intérieur</strong>   <br />          
+     <p>Plantez les arbustes à petits fruits (groseillers, framboisiers, cassissiers...).Cessez les traitements d'hiver.</p> 
+              
+            <strong>Travaux divers</strong>   <br />          
+     <p>Commencez à récupérer l'eau de pluie...</p>      
+              
+               <section id="Conseils de Jardinage pour le mois d'Avril">
+               <h2>Avril</h2>
+            <strong>Légumes</strong>   <br />          
+     <p>On a coutume d'attendre la floraison du lilas pour mettre en terre les plants de pomme de terre germés...La récolte des asperges débute ce mois-ci.Sous abri et au chaud : semis de tomates, melons, courgettes, piments...En place, en pleine terre : semis de carottes, choux, épinard, radis...</p> 
+        
+  <strong>Rosiers</strong>   <br />          
+     <p>Palissez les rosiers grimpants.</p> 
+              
+             <strong>Fleurs et pelouse</strong>   <br />          
+     <p>Semez en pleine terre, les annuelles rustiques.Après un désherbage soigneux, le semis d'une nouvelle pelouse est possible.</p>  
+              
+                <strong>Arbres et arbustes</strong>   <br />          
+     <p>Taillez les arbustes à floraison printanière</p>  
+             
+                <strong>Fruits</strong>   <br />          
+     <p>Attendez que les premières fleurs s'ouvrent pour tailler le pêcher.Ne pulvérisez pas de produits traitant sur les arbres en fleurs, car vous dérangeriez la pollinisation par les insectes.Terminez la plantation des petits arbustes à fruits.Renouvelez vos planches de fraisiers en plantant quelques godets.</p>    
+              
+                <strong>Plantes d'intérieur</strong>   <br />          
+     <p>Les plantes sortent de leur repos hivernal : le bon moment pour rempoter.Arrosez une fois par semaine avec un apport d'engrais.C'est maintenant qu'il faut faire germer une patate douce dans l'eau.</p> 
+              
+            <strong>Travaux divers</strong>   <br />          
+     <p>Transformez vos résidus de taille en paillage.</p>      
+                   
+   <section id="Conseils de Jardinage pour le mois de Mai">
+               <h2>Mai</h2>
+            <strong>Légumes</strong>   <br />          
+     <p>Attendre les dernières gelées pour planter les légumes frileux.Semez les haricots (grimpants ou à rame).Semez le persil en pleine terre. Buttez pommes de terre et petits pois.Arrosez vos semis et plantations au purin d'orties.Protégez les légumes fragiles contre les limaces !Cueillez les radis et refaites régulièrement un semis.Pensez à pincer vos tomates.</p> 
+     
+  <strong>Rosiers</strong>   <br />          
+     <p>Vous pouvez planter les rosiers vendus en conteneurs.Surveillez les attaques de pucerons.Arrosez avec régularité les rosiers plantés récemment.</p> 
+              
+             <strong>Fleurs et pelouse</strong>   <br />          
+     <p>C'est le moment de pailler vos massifs.C'est le moment d'acheter des annuelles en godets pour un fleurissement rapide.Terminez la plantation des bulbes d'été et d'automne.Semez les mélanges pour "prairie fleurie".Tondez régulièrement; pas trop ras s'il fait sec.</p>  
+              
+                <strong>Arbres et arbustes</strong>   <br />          
+     <p>Toujours possible de planter les arbustes vendus en conteneur.Taillez les arbustes qui ont achevé leur floraison printanière (lilas, forsythia...).Taillez les haies.Epandez du paillis pour que le sol conserve son humidité.</p>  
+             
+                <strong>Fruits</strong>   <br />          
+     <p>Arrosez régulièrement les arbres fruitiers plantés depuis moins d'un an.Enlevez tous les fruits sur les très jeunes arbres.</p>    
+              
+                <strong>Plantes d'intérieur</strong>   <br />          
+     <p>Si vous sortez vos plantes à l'extérieur, veillez à les installer à l'ombre : risque de brûlures sur le feuillage !</p> 
+              
+            <strong>Travaux divers</strong>   <br />          
+     <p>Désherbez régulièrement.Pensez à remuer le tas de compost.</p>      
+                   
+     
+   <section id="Conseils de Jardinage pour le mois de Juin">
+               <h2>Juin</h2>
+            <strong>Légumes</strong>   <br />          
+     <p>Taillez les melons à deux feuilles.Récoltez régulièrement le persil.Choisissez bien vos plants de tomate.Semez dès à présent les carottes d'hiver.</p> 
+     
+  <strong>Rosiers</strong>   <br />          
+     <p>Surveillez  les pucerons et traitez si nécessaire.Enlevez les roses fanées</p> 
+              
+             <strong>Fleurs et pelouse</strong>   <br />          
+     <p>Une vivace pour un coin d'ombre ? Découvrez les hostas !Semez les annuelles rustiques.Divisez les bulbes de printemps.Tondez environ une fois par semaine.Occupez-vous des iris fanés.</p>  
+              
+                <strong>Arbres et arbustes</strong>   <br />          
+     <p>Faites des boutures de laurier rose.Paillez le pied des arbustes pour limiter les arrosages et le désherbage.Taillez les arbustes défleuris.</p>  
+             
+                <strong>Fruits</strong>   <br />          
+     <p>Protègez la récolte au verger en installant des pièges contre les parasites volants notamment (carpocapse...).Récoltez les fraises.</p>    
+              
+                <strong>Plantes d'intérieur</strong>   <br />          
+     <p>Faites des apports d'engrais soluble tous les 15 jours environ.</p> 
+              
+            <strong>Travaux divers</strong>   <br />          
+     <p>Evitez de mouiller le feuillage pour prévenir l'oïdium.Récoltez ortie et consoude pour préparer vos purins.Bouturez les hydrangeas (hortensias)</p>      
+       
+     <section id="Conseils de Jardinage pour le mois de Juillet">
+     
+      <h2>Juillet</h2>
+     
+  <strong>Légumes</strong> <br />         
+     <p> Semez la laitue, le persil, les radis...Traitez les pommes de terre contre le mildiou. C'est maintenant qu'il faut planter le chou d'hiver.Etêtez vos aubergines au dessus du second bouquet.Surveillez les tomates. Pincement, tuteurage, arrosage.Arrosez les melons.</p> 
+     
+  <strong>Rosiers</strong> <br />         
+     <p> Pour favoriser la floraison et éviter que vos rosiers ne s'épuisent, supprimez régulièrement les roses fanées.</p> 
+     
+      <strong>Fleurs et pelouse</strong> <br />         
+     <p> Transplantez les iris.Plantez les iris.Semez les bisannuelles  pour le printemps prochain.</p> 
+     
+      <strong>Arbres et arbustes</strong> <br />         
+     <p>Arrosez copieusement les hortensias.Dernière limite en début de mois pour tailler les arbustes à floraison printanière.</p> 
+        
+      <strong>Fruits</strong> <br />         
+     <p>Pensez à éclaircir, c'est à dire enlever les fruits en surnombre. Bouturage des petits fruits (groseiller, cassissier).Pratiquez le pincement.Effeuillez la vigne.</p>
+     
+          
+      <strong>Plantes d'intérieur</strong> <br />         
+     <p>Sortez vos plantes s'il pleut : une douche très bénéfique !</p>
+     
+                
+      <strong>Travaux divers</strong> <br />         
+     <p>Arrosez le compost s'il se dessèche trop.Un bon arrosage tous les 3 jours est préférable à une succession de petits apports quotidiens. Evitez de mouiller les feuillages pour prévenir l'oïdium.
+    </p>
+       
+ 
+      <a href="#Conseils de Jardinage pour le mois d'Août">Août</a></li> 
+      <h2>Août</h2>
+     
+  <strong>Légumes</strong> <br />         
+     <p> Semez de la salade : Frisée, scarole, épinards; chicorée en lignes espacées de 35 cm.Semez les radis en pleine terre, en terrain frais et à l'ombre.Récoltez oignons et pommes de terre.Bouturez estragon, hysope, lavande, sarriette, sauge, thym...Taillez les courges et les potirons.Semez des engrais verts sur les parcelles qui se libèrent.Arrosez régulièrement vos radis.</p> 
+     
+  <strong>Rosiers</strong> <br />         
+     <p> Taillez les rosiers remontants si vous ne l'avez pas fait en juillet.</p> 
+     
+      <strong>Fleurs et pelouse</strong> <br />         
+     <p> A la fin du mois, bouturez les pélargoniums.C'est en août ou tout début septembre que l'on plante le crocus à safran.</p> 
+     
+      <strong>Arbres et arbustes</strong> <br />         
+     <p>Nouvelle taille pour les haies persistantes.</p> 
+        
+      <strong>Fruits</strong> <br />         
+     <p>Les poires précoces sont prêtes pour la cueillette.Si nécessaire, élaguez maintenant les cerisiers pour que les coupes cicatrisent avant l'hiver.Renouvelez les fraisiers en faisant enraciner les plus beaux stolons dans des pots individuels.</p>
+     
+          
+      <strong>Plantes d'intérieur</strong> <br />         
+     <p>Evitez le soleil direct. Fertilisez avec un bon engrais liquide.Vaporisez les frondes des fougères.</p>
+     
+                
+      <strong>Travaux divers</strong> <br />         
+     <p>Fabriquez du purin de consoude.Semez un engrais vert sur les parties libres du potager.Passez une couche de lasure ou de peinture sur l'abri de jardin.</p>
+     
+        <section id="Conseils de Jardinage pour le mois de Septembre">
+
+      <h2>Septembre</h2>
+     
+  <strong>Légumes</strong> <br />         
+     <p> Cessez d'arroser les cucurbitacées (courges, potirons...).Effeuillez les dernières tomates.En septembre, la terre est encore assez chaude pour permettre une germination rapide.Semez les engrais verts (colza, moutarde, trèfle...).Commencez la récolte des courges. Récoltez les haricots-grain.</p> 
+     
+  <strong>Rosiers</strong> <br />         
+     <p> Faites des boutures de vos rosiers</p> 
+     
+      <strong>Fleurs et pelouse</strong> <br />         
+     <p>Il est temps de songer aux bulbes de printemps !Semez les annuelles "rustiques".C'est le meilleur moment de l'année pour semer les nouvelles pelouses.Bouturez vos géraniums (pelargoniums).Arrachez le liseron au ras du sol pour l'affaiblir.</p> 
+     
+      <strong>Arbres et arbustes</strong> <br />         
+     <p>C'est la bonne époque pour planter les persistants.Taillez les charmilles.</p> 
+        
+      <strong>Fruits</strong> <br />         
+     <p>Gare à la sécheresse d'arrière-saison !Il est encore temps de pratiquer une taille en vert sur les pommiers et poiriers.Posez un filet sur les branches de vos actinidias.</p>
+     
+          
+      <strong>Plantes d'intérieur</strong> <br />         
+     <p>Placez vos plantes au plus près des sources de lumière (fenêtres...).En fin de mois, plantez les bulbes de jacinthes, tulipes et autres narcisses.</p>
+     
+                
+      <strong>Travaux divers</strong> <br />         
+     <p>Récoltez la verveine citronnelle.Apportez vos boîtes à oeuf sur le tas de compost</p>
+     
+        <section id="Conseils de Jardinage pour le mois d'Octobre">
+
+      <h2>Octobre</h2>
+     
+  <strong>Légumes</strong> <br />         
+     <p>Incontournable : la fiche sur les travaux de fin de saison au potager.Récoltez carotte, céleri rave et autres légumes racines pour les conserver à l'abri du gel.Plantez les choux du printemps.Semez épinard et mâche en pleine terre.</p> 
+     
+  <strong>Rosiers</strong> <br />         
+     <p> Ramassez régulièrement les feuilles mortes atteintes de maladies.</p> 
+     
+      <strong>Fleurs et pelouse</strong> <br />         
+     <p>Plantez les bulbes à floraison printanière: crocus, narcisses, jacinthes, tulipes, scilles...S'il fait doux, semez du gazon.</p> 
+     
+      <strong>Arbres et arbustes</strong> <br />         
+     <p>L'automne est la meilleure saison pour les plantations de toutes sortes.</p> 
+        
+      <strong>Fruits</strong> <br />         
+     <p>Ramassez le raisin avant l'arrivée des premières gelées.Préparez les trous de plantations de vos arbres fruitiers.Poursuivez et terminez la plantation des fraisiers.Supprimez au ras du sol les tiges des framboisiers qui ont fructifié.Elaguez les arbres (fruits à noyaux).</p>
+         
+      <strong>Plantes d'intérieur</strong> <br />         
+     <p>Cessez les apports d'engrais liquide.Plantez les amaryllis.</p>
+     
+                
+      <strong>Travaux divers</strong> <br />         
+     <p>Mettez à composter les feuilles mortes, si elles ne sont pas porteuses de maladies.</p>
+                 
+                    <section id="Conseils de Jardinage pour le mois de Novembre">
+
+      <h2>Novembre</h2>
+     
+  <strong>Légumes</strong> <br />         
+     <p>Nettoyer vos carrés de culture en supprimant tout ce qui est fâné ou gelé.Consultez la fiche sur la fin de saison au potager.Coupez l'extrémité des tiges des choux de Bruxelles.En sol léger et perméable, plantez l'ail blanc et l'ail violet. En pleine terre, chou pommé, échalote et laitue d'hiver.Récoltez mâche, oseille, pissenlit.Dans les régions à hiver doux, semez les petits pois à grains ronds.</p> 
+     
+  <strong>Rosiers</strong> <br />         
+     <p> Commandez vos futurs rosiers.C'est le bon moment pour planter des rosiers à racines nues !Supprimez les bois morts.</p> 
+     
+      <strong>Fleurs et pelouse</strong> <br />         
+     <p>Rentrez les plantes sensibles au froid.Plantez les bulbes à floraison printanière: crocus, narcisses, jacinthes, tulipes, scilles...S'il fait doux, semez du gazon.</p> 
+     
+      <strong>Arbres et arbustes</strong> <br />         
+     <p>Taillez les arbustes ayant fleuri cet été. Plantez les haies d'arbustes à feuillage persistant : cyprès, buis, thuya...</p> 
+        
+      <strong>Fruits</strong> <br />         
+     <p>Pulvérisez de la bouillie bordelaise sur les arbres à noyaux et sur les arbres à pépins, dès la fin de la chute des feuilles. Par beau temps, plantez les arbres fruitiers: novembre est un mois favorable. Au verger, vous pouvez essayer le bouturage des arbustes à petits fruits (groseillers, framboisiers). Soignez vos arbres en supprimant les branches mortes, les fruits momifiés.</p>
+         
+      <strong>Plantes d'intérieur</strong> <br />         
+     <p>Stoppez les apports d'engrais.Pensez à aérer régulièrement, quand il ne fait pas trop froid au dehors.</p>
+     
+                
+      <strong>Travaux divers</strong> <br />         
+     <p>Mettez vos outils à l'abri.Ramassez les feuilles mortes et versez-les sur le tas de compost.</p>
+                      
+                 <section id="Conseils de Jardinage pour le mois de Décembre">
+
+      <h2>Décembre</h2>
+     
+  <strong>Légumes</strong> <br />         
+     <p>Epandez le fumier et les engrais de fond.Préparez dès à présent votre terrain pour la plantation des jeune griffes d'asperges de février à avril. Aérez le sol des planches qui se libèrent. Dans le midi, pois en pleine terre pour une dégustation en mars. Commencez à réfléchir aux variétés que vous sèmerez l'an prochain !</p> 
+     
+  <strong>Rosiers</strong> <br />         
+     <p>Les rosiers à racines nues sont économiques et garantissent une excellente reprise ! </p> 
+     
+      <strong>Fleurs et pelouse</strong> <br />         
+     <p>Ne piétinez pas une pelouse givrée ou enneigée.Triez vos sachets de graines.</p> 
+     
+      <strong>Arbres et arbustes</strong> <br />         
+     <p>Vous pouvez transplanter les arbustes mal placés.S'il ne gèle pas, c'est le bon moment pour planter des rosiers.Bouturez le saule pleureur et autres arbres à feuillage caduc.Plantez les haies caduques. Faites élaguer les grands arbres.Nourrissez vos plantes de terre de bruyère en épandant un engrais riche en phosphore et en potasse.</p> 
+        
+      <strong>Fruits</strong> <br />         
+     <p>Plantez les arbres fruitiers s'il ne gèle pas.Badigeonnez les troncs avec un blanc insecticide.Supprimez à l'aide d'une brosse dure les lichens et mousses qui envahissent les troncs.Par temps doux, taille des pommiers, poiriers et autres arbres à pépins.Taillez les rameaux des touffes de groseilliers. Si ce n'est déjà fait, il est temps de récolter les kakis.</p>
+         
+      <strong>Plantes d'intérieur</strong> <br />         
+     <p>Réduisez les arrosages au minimum. Pas d'engrais. Fiche pratique : plantes en pot.Cultivez sur carafe les jacinthes, crocus et autres bulbes à fleurs. Multipliez votre ficus. Surveillez vos plantes d'intérieur, et guettez les symptômes de la cochenille.</p>
+     
+                
+      <strong>Travaux divers</strong> <br />         
+     <p>Aérez la serre régulièrement.Affûtez et désinfectez vos outils de jardin.Supprimez les tiges des vivaces fanées.Pensez à rentrer la stévia. Repiquez les aromatiques.Divisez les vivaces à floraison estivale et automnale.</p> 
+    </main>
+  <section id="forum">
+    
+    <h1>Espace Forum</h1>  
+      <p>J'adore votre mini site web!</p> 
+    <p>Meilleur site éducatif😊</p>
+    
+    <footer>
+        <p> 2024 Catalogue des Plantes pour Pollinisateurs. Par Racha Farrh</p>
+    </footer>
+</body>
+</html>
+
+git remote add origin https://github.com/Chacha1052/Mini-site-web-html.git
+git branch -M main
+git push -u origin main
